@@ -1,4 +1,7 @@
-# LorenzoI901
+# Entrega Atividade Lorenzo Issaça Juliati RA:819221773
+![image](https://user-images.githubusercontent.com/72031326/98487812-012ef400-2204-11eb-8771-5546088f83f9.png)
+![image](https://user-images.githubusercontent.com/72031326/98487859-4eab6100-2204-11eb-9236-51bb433bf437.png)
+![image](https://user-images.githubusercontent.com/72031326/98487875-671b7b80-2204-11eb-8833-a0e2552ae4f1.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
